@@ -9,7 +9,7 @@ OMIMID_Name.txt
 PhenoBayes_Data.pk
 
 # Usage:
-python2.7 /home/luyulan/project/PhenoBayes/script/script_phenotype_withrc.py $input_file $output_file
+python2.7 script_phenotype_withrc.py $input_file $output_file
 
 #p.s: Put HPO list in $input_file and check $output_file
 
